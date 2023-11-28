@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HPvIdWQv+EzQtWCQe9A6qaQtvsVZaizhvQ6+FURZ6+YA3XLgQiSePYGPzfwp8O7OUujXu0uQsd5o3iIzKqN//Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avivshi\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\avivshi\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
