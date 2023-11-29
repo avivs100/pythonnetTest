@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj": {}
+    "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
+    "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
+        "projectUniqueName": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
         "projectName": "davidProj",
-        "projectPath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
-        "packagesPath": "C:\\Users\\avivshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\obj\\",
+        "projectPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
+        "packagesPath": "C:\\Users\\AVIVSHI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\avivshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AVIVSHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

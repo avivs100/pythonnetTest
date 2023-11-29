@@ -1,0 +1,12 @@
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\bin\Debug\net7.0\Aviv.Test.deps.json
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\bin\Debug\net7.0\Aviv.Test.dll
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\bin\Debug\net7.0\Aviv.Test.pdb
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.csproj.AssemblyReference.cache
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.AssemblyInfoInputs.cache
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.AssemblyInfo.cs
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.csproj.CoreCompileInputs.cache
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.dll
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\refint\Aviv.Test.dll
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.pdb
+C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\ref\Aviv.Test.dll

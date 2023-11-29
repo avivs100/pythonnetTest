@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZmLeD6qYDbe107K4JaV0euy32px6LbYIxQwv7vw9NHDZyHFR2wiM0FzJ2YvxkhuCDM3WM86eu92d4JatZlqQA==",
+  "dgSpecHash": "fI+l3Nf4+FnZ2AICgn2InJYg6qplUqqJXwW6LUIGu8VeKwAJ8+wBDr1bSrPanXR1fO804dcOsZP3bVPDLMlLew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\avivshi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\avivshi\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\avivshi\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+    "C:\\Users\\AVIVSHI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\AVIVSHI\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\AVIVSHI\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
