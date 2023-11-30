@@ -1,0 +1,15 @@
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\bin\Debug\net7.0\Test.Infrastructure.DavidUtils.deps.json
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\bin\Debug\net7.0\Test.Infrastructure.DavidUtils.dll
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\bin\Debug\net7.0\Test.Infrastructure.DavidUtils.pdb
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\bin\Debug\net7.0\davidProj.dll
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\bin\Debug\net7.0\davidProj.pdb
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.csproj.AssemblyReference.cache
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.AssemblyInfoInputs.cache
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.AssemblyInfo.cs
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.csproj.CoreCompileInputs.cache
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.csproj.CopyComplete
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.dll
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\refint\Test.Infrastructure.DavidUtils.dll
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\Test.Infrastructure.DavidUtils.pdb
+C:\Users\avivshi\Source\Repos\pythonnetTest\Test.Infrastructure.DavidUtils\obj\Debug\net7.0\ref\Test.Infrastructure.DavidUtils.dll

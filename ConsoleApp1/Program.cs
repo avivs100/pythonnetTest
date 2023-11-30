@@ -1,22 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
-using davidProj;
-
-
-using Newtonsoft.Json;
-
-Console.WriteLine("hii");
-string filePath = "D:\\PythonNetTest\\davidObj.json";
-David davidObject = DeserializeJsonFile<David>(filePath);
+using System.Text.Json;
 
 
-Console.WriteLine("hii");
-Console.WriteLine(davidObject.Description + davidObject.Name + davidObject.Gender);
-foreach (var num in davidObject.Numbers)
-{
-    Console.WriteLine(num);
-}
-Console.WriteLine();
+
+
+//David davidObject = Functions.DeserializeDavidFromJson(filePath);
+//David davidObject = DeserializeJsonFile<David>(filePath);
+
+
+//Console.WriteLine("hii");
+//Console.WriteLine(davidObject.Description + davidObject.Name + davidObject.Gender);
+//foreach (var num in davidObject.Numbers)
+//{
+//    Console.WriteLine(num);
+//}
+//Console.WriteLine();
 
 static T DeserializeJsonFile<T>(string filePath)
 {
@@ -26,7 +25,7 @@ static T DeserializeJsonFile<T>(string filePath)
         var jsonContent = File.ReadAllText(filePath);
 
 
-        T result = JsonConvert.DeserializeObject<T>(jsonContent);
+        T result = JsonSerializer.Deserialize<T>(jsonContent);
 
         return result;
     }

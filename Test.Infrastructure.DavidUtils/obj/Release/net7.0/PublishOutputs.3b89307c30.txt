@@ -1,0 +1,9 @@
+C:\Users\avivshi\Desktop\New folder\Test.Infrastructure.DavidUtils.dll
+C:\Users\avivshi\Desktop\New folder\Test.Infrastructure.DavidUtils.deps.json
+C:\Users\avivshi\Desktop\New folder\Test.Infrastructure.DavidUtils.pdb
+C:\Users\avivshi\Desktop\New folder\Newtonsoft.Json.dll
+C:\Users\avivshi\Desktop\New folder\System.Text.Encodings.Web.dll
+C:\Users\avivshi\Desktop\New folder\System.Text.Json.dll
+C:\Users\avivshi\Desktop\New folder\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\avivshi\Desktop\New folder\davidProj.dll
+C:\Users\avivshi\Desktop\New folder\davidProj.pdb

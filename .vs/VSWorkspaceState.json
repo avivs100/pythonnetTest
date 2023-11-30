@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1"
+    "\\ConsoleApp1",
+    "\\davidProj",
+    "\\Test.Infrastructure.DavidUtils"
   ],
-  "SelectedNode": "\\ConsoleApp1\\Program.cs",
+  "SelectedNode": "\\Test.Infrastructure.DavidUtils\\Test.Infrastructure.DavidUtils.csproj",
   "PreviewInSolutionExplorer": false
 }
