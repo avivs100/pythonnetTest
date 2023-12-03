@@ -44,7 +44,7 @@ public class David
         File.WriteAllText("C:\\Temp\\davidObj.json", json);
     }
 
-    public static David create(/* string path*/)
+    public static David Create(/* string path*/)
     {
         //add here deserial logic and return the object
         return new David("david", "david1", new List<double> { 1.1, 2.2, 3.3, 4.4 }, Gender.Fluid);

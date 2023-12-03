@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj": {}
+    "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj": {
+    "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
+        "projectUniqueName": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
         "projectName": "Aviv.Test",
-        "projectPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
+        "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
         "packagesPath": "C:\\Users\\AVIVSHI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\obj\\",
+        "outputPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AVIVSHI\\AppData\\Roaming\\NuGet\\NuGet.Config",

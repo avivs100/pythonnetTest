@@ -228,11 +228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\AVIVSHI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AVIVSHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -249,8 +249,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
-              "projectPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj"
+            "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
+              "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj"
             }
           }
         }

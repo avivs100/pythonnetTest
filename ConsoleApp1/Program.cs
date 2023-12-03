@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 
 Console.WriteLine("hii");
 string filePath = "D:\\PythonNetTest\\davidObj.json";
-David davidObject = DeserializeJsonFile<David>(filePath);
+var davidObject = DeserializeJsonFile<David>(filePath);
 
 
 Console.WriteLine("hii");
@@ -37,4 +37,3 @@ static T DeserializeJsonFile<T>(string filePath)
         return default(T);
     }
 }
-
