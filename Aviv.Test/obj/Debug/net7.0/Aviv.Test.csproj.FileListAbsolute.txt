@@ -13,3 +13,5 @@ C:\Users\AVIVSHI\Source\Repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\ref\Aviv.
 C:\Users\AVIVSHI\source\repos\pythonnetTest\Aviv.Test\bin\Debug\net7.0\davidProj.dll
 C:\Users\AVIVSHI\source\repos\pythonnetTest\Aviv.Test\bin\Debug\net7.0\davidProj.pdb
 C:\Users\AVIVSHI\source\repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.csproj.CopyComplete
+C:\Users\AVIVSHI\source\repos\pythonnetTest\Aviv.Test\bin\Debug\net7.0\Aviv.Test.runtimeconfig.json
+C:\Users\AVIVSHI\source\repos\pythonnetTest\Aviv.Test\obj\Debug\net7.0\Aviv.Test.genruntimeconfig.cache

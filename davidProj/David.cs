@@ -27,7 +27,7 @@ public class David
         Numbers.Add(number);
     }
 
-    private double GetNumber(int index)
+    public double GetNumber(int index)
     {
         return Numbers[index];
     }

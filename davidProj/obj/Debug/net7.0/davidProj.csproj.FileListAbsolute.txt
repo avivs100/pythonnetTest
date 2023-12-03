@@ -22,3 +22,5 @@ C:\Users\avivshi\Source\Repos\pythonnetTest\davidProj\obj\Debug\net7.0\davidProj
 C:\Users\avivshi\Source\Repos\pythonnetTest\davidProj\obj\Debug\net7.0\refint\davidProj.dll
 C:\Users\avivshi\Source\Repos\pythonnetTest\davidProj\obj\Debug\net7.0\davidProj.pdb
 C:\Users\avivshi\Source\Repos\pythonnetTest\davidProj\obj\Debug\net7.0\ref\davidProj.dll
+C:\Users\AVIVSHI\source\repos\pythonnetTest\davidProj\bin\Debug\net7.0\davidProj.runtimeconfig.json
+C:\Users\AVIVSHI\source\repos\pythonnetTest\davidProj\obj\Debug\net7.0\davidProj.genruntimeconfig.cache

@@ -1,17 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+	<GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	<TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="functions\" />
+    <ProjectReference Include="..\davidProj\davidProj.csproj" />
+    
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\davidProj\davidProj.csproj" />
-  </ItemGroup>
 
 </Project>
