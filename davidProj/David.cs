@@ -43,5 +43,5 @@ public class David
         File.WriteAllText(filePath, json);
     }
 
-    public static David Create(/* string path*/)=> new David("david", "david1", new List<double> { 1.1, 2.2, 3.3, 4.4 }, Gender.Fluid);
+    public static David Create(/* string path*/)=> new ("david", "david1", new List<double> { 1.1, 2.2, 3.3, 4.4 }, Gender.Fluid);
 }
