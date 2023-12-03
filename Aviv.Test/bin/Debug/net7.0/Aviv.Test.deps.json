@@ -8,18 +8,15 @@
     ".NETCoreApp,Version=v7.0": {
       "Aviv.Test/1.0.0": {
         "dependencies": {
-          "davidProj": "1.0.0.0"
+          "davidProj": "1.0.0"
         },
         "runtime": {
           "Aviv.Test.dll": {}
         }
       },
-      "davidProj/1.0.0.0": {
+      "davidProj/1.0.0": {
         "runtime": {
-          "davidProj.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "davidProj.dll": {}
         }
       }
     }
@@ -30,8 +27,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "davidProj/1.0.0.0": {
-      "type": "reference",
+    "davidProj/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }
