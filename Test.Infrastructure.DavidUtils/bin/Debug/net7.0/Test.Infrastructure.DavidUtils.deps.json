@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Test.Infrastructure.DavidUtils/1.0.0": {
+        "dependencies": {
+          "davidProj": "1.0.0"
+        },
+        "runtime": {
+          "Test.Infrastructure.DavidUtils.dll": {}
+        }
+      },
+      "davidProj/1.0.0": {
+        "runtime": {
+          "davidProj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test.Infrastructure.DavidUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "davidProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

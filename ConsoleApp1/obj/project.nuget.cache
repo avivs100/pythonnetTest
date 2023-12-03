@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dyW6spzKII30rLUhdZ/qUL4dt9f4GJsTGrPgRzjZJB7vvWLnMVYLRjED0BPOJIW/W0P++vQS3n66VPAL/RBk7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
@@ -8,5 +9,11 @@
     "C:\\Users\\AVIVSHI\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\AVIVSHI\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "l85TdcmAS2CLzUzMiOPLjAiDQt4NXcOyIqlXWGp+fmDA7jaZ01nc+v2UWeSZ8Jjnw78v1PL4rdQu6vXyYzETog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> b5189bc38ae2a7f56a145a0e1ab9d826713b6c5b
   "logs": []
 }

@@ -1,6 +1,5 @@
-﻿using System.Runtime.InteropServices.JavaScript;
-using System.Text.Json;
-using static System.Net.Mime.MediaTypeNames;
+﻿using System.Text.Json;
+
 
 namespace davidProj;
 
@@ -41,7 +40,7 @@ public class David
         string json = JsonSerializer.Serialize(this);
 
         // Write the JSON to the specified file
-        File.WriteAllText("C:\\Temp\\davidObj.json", json);
+        File.WriteAllText(filePath, json);
     }
 
     public static David Create(/* string path*/)

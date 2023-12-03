@@ -8,11 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\davidProj\davidProj.csproj" />
+    <ProjectReference Include="..\Test.Infrastructure.DavidUtils\Test.Infrastructure.DavidUtils.csproj" />
   </ItemGroup>
 
 </Project>
