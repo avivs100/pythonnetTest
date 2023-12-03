@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v7.0": {
       "ConsoleApp1/1.0.0": {
         "dependencies": {
-          "Test.Infrastructure.DavidUtils": "1.0.0",
           "davidProj": "1.0.0"
         },
         "runtime": {
@@ -18,14 +17,6 @@
       "davidProj/1.0.0": {
         "runtime": {
           "davidProj.dll": {}
-        }
-      },
-      "Test.Infrastructure.DavidUtils/1.0.0": {
-        "dependencies": {
-          "davidProj": "1.0.0"
-        },
-        "runtime": {
-          "Test.Infrastructure.DavidUtils.dll": {}
         }
       }
     }
@@ -37,11 +28,6 @@
       "sha512": ""
     },
     "davidProj/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Test.Infrastructure.DavidUtils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

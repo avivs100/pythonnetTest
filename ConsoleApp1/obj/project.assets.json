@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/davidProj.dll": {}
         }
-      },
-      "Test.Infrastructure.DavidUtils/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "davidProj": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Test.Infrastructure.DavidUtils.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Test.Infrastructure.DavidUtils.dll": {}
-        }
       }
     }
   },
@@ -32,16 +19,10 @@
       "type": "project",
       "path": "../davidProj/davidProj.csproj",
       "msbuildProject": "../davidProj/davidProj.csproj"
-    },
-    "Test.Infrastructure.DavidUtils/1.0.0": {
-      "type": "project",
-      "path": "../Test.Infrastructure.DavidUtils/Test.Infrastructure.DavidUtils.csproj",
-      "msbuildProject": "../Test.Infrastructure.DavidUtils/Test.Infrastructure.DavidUtils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Test.Infrastructure.DavidUtils >= 1.0.0",
       "davidProj >= 1.0.0"
     ]
   },
@@ -72,16 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
               "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj"
-=======
-            "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
-              "projectPath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj"
-            },
-            "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\Test.Infrastructure.DavidUtils\\Test.Infrastructure.DavidUtils.csproj": {
-              "projectPath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\Test.Infrastructure.DavidUtils\\Test.Infrastructure.DavidUtils.csproj"
->>>>>>> b5189bc38ae2a7f56a145a0e1ab9d826713b6c5b
             }
           }
         }
@@ -114,5 +87,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

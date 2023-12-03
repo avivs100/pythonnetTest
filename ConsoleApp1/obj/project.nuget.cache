@@ -1,19 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "dyW6spzKII30rLUhdZ/qUL4dt9f4GJsTGrPgRzjZJB7vvWLnMVYLRjED0BPOJIW/W0P++vQS3n66VPAL/RBk7w==",
+  "dgSpecHash": "dcaKIpJ4Wxkfhrv4HEZ3Wn2MbuYvlXNGURJ4l80491SFxQkeaXfqxTHx4ZCK05sM3Nd9UL11mTPGjY2tmzC2Jg==",
   "success": true,
   "projectFilePath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\AVIVSHI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\AVIVSHI\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\AVIVSHI\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
-  ],
-=======
-  "dgSpecHash": "l85TdcmAS2CLzUzMiOPLjAiDQt4NXcOyIqlXWGp+fmDA7jaZ01nc+v2UWeSZ8Jjnw78v1PL4rdQu6vXyYzETog==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
->>>>>>> b5189bc38ae2a7f56a145a0e1ab9d826713b6c5b
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

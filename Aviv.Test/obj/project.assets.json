@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "davidProj/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/davidProj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/davidProj.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "davidProj/1.0.0": {
+      "type": "project",
+      "path": "../davidProj/davidProj.csproj",
+      "msbuildProject": "../davidProj/davidProj.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "davidProj >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\AVIVSHI\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
+      "projectUniqueName": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
       "projectName": "Aviv.Test",
-      "projectPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
+      "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\Aviv.Test.csproj",
       "packagesPath": "C:\\Users\\AVIVSHI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AVIVSHI\\Source\\Repos\\pythonnetTest\\Aviv.Test\\obj\\",
+      "outputPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\Aviv.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AVIVSHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj": {
+              "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

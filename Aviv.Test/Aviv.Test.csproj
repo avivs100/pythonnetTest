@@ -10,4 +10,8 @@
     <Folder Include="functions\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\davidProj\davidProj.csproj" />
+  </ItemGroup>
+
 </Project>

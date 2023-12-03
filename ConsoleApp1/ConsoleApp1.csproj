@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\davidProj\davidProj.csproj" />
-    <ProjectReference Include="..\Test.Infrastructure.DavidUtils\Test.Infrastructure.DavidUtils.csproj" />
   </ItemGroup>
 
 </Project>

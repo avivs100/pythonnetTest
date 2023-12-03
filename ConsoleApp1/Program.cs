@@ -1,16 +1,10 @@
-﻿
+﻿using System.Text.Json;
+using davidProj;
 
-using System.Text.Json;
+var david = David.Create();
+var jsonString = JsonSerializer.Serialize(david);
+File.WriteAllText("C:\\Users\\AVIVSHI\\Desktop\\davidObj.json", jsonString);
 
-
-<<<<<<< HEAD
-using Newtonsoft.Json;
-
-Console.WriteLine("hii");
-string filePath = "D:\\PythonNetTest\\davidObj.json";
-var davidObject = DeserializeJsonFile<David>(filePath);
-=======
->>>>>>> b5189bc38ae2a7f56a145a0e1ab9d826713b6c5b
 
 
 //David davidObject = Functions.DeserializeDavidFromJson(filePath);
@@ -24,23 +18,3 @@ var davidObject = DeserializeJsonFile<David>(filePath);
 //    Console.WriteLine(num);
 //}
 //Console.WriteLine();
-
-static T DeserializeJsonFile<T>(string filePath)
-{
-    try
-    {
-
-        var jsonContent = File.ReadAllText(filePath);
-
-
-        T result = JsonSerializer.Deserialize<T>(jsonContent);
-
-        return result;
-    }
-    catch (Exception ex)
-    {
-
-        Console.WriteLine($"Error deserializing JSON file: {ex.Message}");
-        return default(T);
-    }
-}

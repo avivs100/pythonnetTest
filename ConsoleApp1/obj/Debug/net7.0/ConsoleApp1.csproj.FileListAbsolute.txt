@@ -37,5 +37,3 @@ C:\Users\avivshi\Source\Repos\pythonnetTest\ConsoleApp1\obj\Debug\net7.0\refint\
 C:\Users\avivshi\Source\Repos\pythonnetTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
 C:\Users\avivshi\Source\Repos\pythonnetTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\avivshi\Source\Repos\pythonnetTest\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
-C:\Users\avivshi\Source\Repos\pythonnetTest\ConsoleApp1\bin\Debug\net7.0\Test.Infrastructure.DavidUtils.dll
-C:\Users\avivshi\Source\Repos\pythonnetTest\ConsoleApp1\bin\Debug\net7.0\Test.Infrastructure.DavidUtils.pdb
