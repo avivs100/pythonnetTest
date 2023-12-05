@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p9MnvdVrjcbdHml3oTL5312sPXtTrAPw9f/NaU1g9fozdoZIRkV96ppxQQo5T/jFUTIBfSLTr4bDisP6K7qxAw==",
+  "dgSpecHash": "FdcI4kcr98olsAy9Cpd9UN70odwVcecDAHr6GG7auSrtZgxHfoOcCk0Fh8cPTjG61WNjDlIVGbq+tpkn2OnI7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj",
+  "projectFilePath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

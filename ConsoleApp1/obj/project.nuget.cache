@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dcaKIpJ4Wxkfhrv4HEZ3Wn2MbuYvlXNGURJ4l80491SFxQkeaXfqxTHx4ZCK05sM3Nd9UL11mTPGjY2tmzC2Jg==",
+  "dgSpecHash": "0o5ulHdpebGOU7Rq9RokBlh/og5OyOI0lV7l2v24BsSkHaW3IR5iipfU8KWpquiVuckNVq4PeIsiPXWmXtKaAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\ConsoleApp1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

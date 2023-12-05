@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AVIVSHI\\.nuget\\packages\\": {}
+    "C:\\Users\\avivshi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj",
+      "projectUniqueName": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
       "projectName": "davidProj",
-      "projectPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\davidProj.csproj",
-      "packagesPath": "C:\\Users\\AVIVSHI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\obj\\",
+      "projectPath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\davidProj.csproj",
+      "packagesPath": "C:\\Users\\avivshi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\avivshi\\Source\\Repos\\pythonnetTest\\davidProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AVIVSHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\avivshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,13 +64,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\AVIVSHI\\source\\repos\\pythonnetTest\\davidProj\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
