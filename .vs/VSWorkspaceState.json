@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1",
-    "\\davidProj",
-    "\\Test.Infrastructure.DavidUtils"
+    "\\Aviv.Test",
+    "\\Aviv.Test\\functions"
   ],
-  "SelectedNode": "\\Test.Infrastructure.DavidUtils\\Test.Infrastructure.DavidUtils.csproj",
+  "SelectedNode": "\\Aviv.Test\\functions\\AnalysisUtils.cs",
   "PreviewInSolutionExplorer": false
 }
